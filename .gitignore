@@ -1,0 +1,10 @@
+*.classpath
+*.project
+*.jsdtscope
+*.name
+*.prefs
+*.xml
+*.MF
+/build
+
+*.properties
