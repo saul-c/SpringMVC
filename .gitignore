@@ -2,3 +2,4 @@
 *.jsdtscope
 *.class
 *.project
+/build
